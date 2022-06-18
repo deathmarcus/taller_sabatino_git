@@ -1,1 +1,2 @@
-Este es el README del repositorio de git avanzado
+# Este es el README del repositorio de git avanzado
+- Creado por Marco Castañeda
